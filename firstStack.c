@@ -1,4 +1,7 @@
 #include<stdio.h>
 int main(){
-    printf("who are u");
+    int num;
+    printf("Enter an integer");
+    scanf("%d",&num);
+    
 }
